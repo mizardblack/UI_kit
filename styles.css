@@ -1,7 +1,30 @@
+body {
+    font-family: urw-form,sans-serif;
+    font-style: normal;
+    margin:0;
+}
+.content {
+    margin:10vh 10vh;
+}
+.section {
+    margin:10vh 10vh;
+}
+.section-heading {
+    font-weight: 400;
+}
+
 .type-heading-1 {
   text-transform: uppercase;
   border-bottom: 1px solid;
   font-weight: 100;
   font-size: 6rem;
   margin: 0 0 3rem;
+}
+
+.type-body-1{
+    font-weight: 400;
+}
+.type-body-2{
+    font-weight: 400;
+    font-style: italic;
 }
